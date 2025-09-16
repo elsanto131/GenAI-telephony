@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.egg
+*.egg-info/
+dist/
+build/
+.env*
+.venv/
+data/processed/
+data/interim/
+*.joblib
+*.faiss
+chroma/
+logs/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store

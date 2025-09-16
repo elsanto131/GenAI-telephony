@@ -1,0 +1,4 @@
+Client_18: Bonjour, j'ai une question sur ma facture.
+Agent: Bien sûr, pouvez-vous préciser votre demande ?
+Client_18: Il y a un montant que je ne comprends pas.
+Agent: Je vérifie cela pour vous.

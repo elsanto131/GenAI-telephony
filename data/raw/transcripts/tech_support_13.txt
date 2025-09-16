@@ -1,0 +1,4 @@
+Client_13: Mon internet ne fonctionne plus.
+Agent: Avez-vous essayé de redémarrer votre box ?
+Client_13: Oui, mais ça ne marche toujours pas.
+Agent: Je vais lancer un diagnostic.
